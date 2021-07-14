@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/timesheet-helper/static/css/main.0f6cdee4.chunk.css",
+    "main.js": "/timesheet-helper/static/js/main.6f375620.chunk.js",
+    "main.js.map": "/timesheet-helper/static/js/main.6f375620.chunk.js.map",
+    "runtime-main.js": "/timesheet-helper/static/js/runtime-main.c70ca1a1.js",
+    "runtime-main.js.map": "/timesheet-helper/static/js/runtime-main.c70ca1a1.js.map",
+    "static/js/2.a6d6d7eb.chunk.js": "/timesheet-helper/static/js/2.a6d6d7eb.chunk.js",
+    "static/js/2.a6d6d7eb.chunk.js.map": "/timesheet-helper/static/js/2.a6d6d7eb.chunk.js.map",
+    "index.html": "/timesheet-helper/index.html",
+    "static/css/main.0f6cdee4.chunk.css.map": "/timesheet-helper/static/css/main.0f6cdee4.chunk.css.map",
+    "static/js/2.a6d6d7eb.chunk.js.LICENSE.txt": "/timesheet-helper/static/js/2.a6d6d7eb.chunk.js.LICENSE.txt",
+    "static/media/bi-clipboard.6c926197.svg": "/timesheet-helper/static/media/bi-clipboard.6c926197.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70ca1a1.js",
+    "static/js/2.a6d6d7eb.chunk.js",
+    "static/css/main.0f6cdee4.chunk.css",
+    "static/js/main.6f375620.chunk.js"
+  ]
+}
